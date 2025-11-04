@@ -1,0 +1,40 @@
+﻿<Window x:Class="Loja.Produto"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Produto" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="btnVoltarProduto" Content="Voltar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="btnVoltarProduto_Click"/>
+
+        <Label Content="Nome" Margin="27,60,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtNomeProduto" Width="120" Margin="27,90,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+        <Label Content="Valor" Margin="27,130,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtValorProduto" Width="120" Margin="27,160,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+        <Label Content="Descrição" Margin="27,200,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtDescricaoProduto" Width="120" Margin="27,230,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+        <Button x:Name="btnCadastrarProduto" Content="Cadastrar" Width="120" Margin="27,270,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnCadastrarProduto_Click"/>
+
+        <TextBox x:Name="txtBuscaProduto" Width="150" Margin="414,315,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button x:Name="btnBuscarProduto" Content="Buscar" Width="80" Margin="574,315,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnBuscarProduto_Click"/>
+        <Button x:Name="btnLimparBuscaProduto" Content="Limpar" Width="80" Margin="664,315,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnLimparBuscaProduto_Click"/>
+        <Button x:Name="btnExcluirProduto" Content="Excluir" Width="80" Margin="47,310,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnExcluirProduto_Click"/>
+
+        <DataGrid x:Name="dgProduto"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  SelectionChanged="dgProduto_SelectionChanged"
+                  Margin="178,35,25,147">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="Nome" Binding="{Binding Nome}" Width="150"/>
+                <DataGridTextColumn Header="Valor" Binding="{Binding Valor}" Width="100"/>
+                <DataGridTextColumn Header="Descrição" Binding="{Binding Descricao}" Width="200"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Pesquisar" HorizontalAlignment="Left" Margin="330,312,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

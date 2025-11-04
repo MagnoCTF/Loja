@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Cliente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Estoque.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Funcionario.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pedido.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Produto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TelaItemPedidoss.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TelaPagamentos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TelaPrincipal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

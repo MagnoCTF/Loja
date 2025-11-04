@@ -1,0 +1,28 @@
+﻿<Window x:Class="Loja.TelaPrincipal"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Loja"
+        mc:Ignorable="d"
+        Title="TelaPrincipal" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnLogout" Content="Logout" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="btnLogout_Click"/>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0" Width="200">
+            <Label Content="Gerenciar Funcionário" HorizontalAlignment="Center"/>
+            <Button x:Name="btnFuncionario" Content="Gerenciar" Click="btnFuncionario_Click" Margin="0,5"/>
+
+            <Label Content="Gerenciar Clientes" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+            <Button x:Name="btnCliente" Content="Gerenciar" Click="Button_Click_1" Margin="0,5"/>
+
+            <Label Content="Gerenciar Estoque" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+            <Button x:Name="btnEstoque" Content="Gerenciar" Click="Button_Click_3" Margin="0,5"/>
+
+            <Label Content="Gerenciar Pedidos" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+            <Button x:Name="btnPedidos" Content="Gerenciar" Click="btnPedidos_Click" Margin="0,5"/>
+            <Label Content="Gerenciar Produto" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+            <Button x:Name="btnProduto" Content="Gerenciar" Click="Button_Click_2" Margin="0,5"/>
+        </StackPanel>
+    </Grid>
+</Window>

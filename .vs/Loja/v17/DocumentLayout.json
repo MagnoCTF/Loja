@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Migrations\\20251103220946_CriacaoInicialDoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Loja\\Migrations\\20251103220946_CriacaoInicialDoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\cliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\cliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\estoque.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\estoque.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\funcionario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\funcionario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\pedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\pedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\produto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\produto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\telaitempedidoss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\telaitempedidoss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\telapagamentos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\telapagamentos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\cliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\cliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\estoque.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\estoque.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\funcionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\funcionario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\pedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\pedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\produto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\produto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\telaitempedidoss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\telaitempedidoss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\telaprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\telaprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\telapagamentos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\telapagamentos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LojaDB/True/SqlTable/dbo.Logins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|c:\\users\\carlosalcantara\\desktop\\loja\\loja\\loja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B75D3301-36CC-41D9-AD4C-672E587B0E1C}|Loja\\Loja.csproj|solutionrelative:loja\\loja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 294,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251103220946_CriacaoInicialDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Migrations\\20251103220946_CriacaoInicialDoBanco.cs",
+              "RelativeDocumentMoniker": "Loja\\Migrations\\20251103220946_CriacaoInicialDoBanco.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Migrations\\20251103220946_CriacaoInicialDoBanco.cs",
+              "RelativeToolTip": "Loja\\Migrations\\20251103220946_CriacaoInicialDoBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T22:09:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Estoque.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Estoque.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Estoque.cs",
+              "RelativeToolTip": "Loja\\Models\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:50:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Loja\\Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:43:06.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Produto.cs",
+              "RelativeToolTip": "Loja\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:39:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Loja\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:26:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Cliente.cs",
+              "RelativeToolTip": "Loja\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:55:14.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Loja\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Loja\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:35:19.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\ItemPedido.cs",
+              "RelativeToolTip": "Loja\\Models\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:03:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Login.cs",
+              "RelativeToolTip": "Loja\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:44:54.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Pagamento.cs",
+              "RelativeToolTip": "Loja\\Models\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:06:43.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Models\\Pedido.cs",
+              "RelativeToolTip": "Loja\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:53:14.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Cliente.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\Cliente.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Cliente.xaml.cs",
+              "RelativeToolTip": "Loja\\Cliente.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:38:08.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Estoque.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Estoque.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\Estoque.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Estoque.xaml.cs",
+              "RelativeToolTip": "Loja\\Estoque.xaml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:41:15.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Funcionario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Funcionario.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\Funcionario.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Funcionario.xaml.cs",
+              "RelativeToolTip": "Loja\\Funcionario.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:23:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Login.xaml.cs",
+              "RelativeToolTip": "Loja\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T00:58:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pedido.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Pedido.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\Pedido.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Pedido.xaml.cs",
+              "RelativeToolTip": "Loja\\Pedido.xaml.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAUwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:45:16.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Produto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Produto.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\Produto.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Produto.xaml.cs",
+              "RelativeToolTip": "Loja\\Produto.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:38:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelaItemPedidoss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaItemPedidoss.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\TelaItemPedidoss.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaItemPedidoss.xaml.cs",
+              "RelativeToolTip": "Loja\\TelaItemPedidoss.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:38:33.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TelaPagamentos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPagamentos.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\TelaPagamentos.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPagamentos.xaml.cs",
+              "RelativeToolTip": "Loja\\TelaPagamentos.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:29:58.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TelaPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Loja\\TelaPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPrincipal.xaml.cs",
+              "RelativeToolTip": "Loja\\TelaPrincipal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:01:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Cliente.xaml",
+              "RelativeDocumentMoniker": "Loja\\Cliente.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Cliente.xaml",
+              "RelativeToolTip": "Loja\\Cliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T22:34:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Estoque.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Estoque.xaml",
+              "RelativeDocumentMoniker": "Loja\\Estoque.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Estoque.xaml",
+              "RelativeToolTip": "Loja\\Estoque.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T22:40:51.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Funcionario.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Funcionario.xaml",
+              "RelativeDocumentMoniker": "Loja\\Funcionario.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Funcionario.xaml",
+              "RelativeToolTip": "Loja\\Funcionario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T22:02:45.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Login.xaml",
+              "RelativeDocumentMoniker": "Loja\\Login.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Login.xaml",
+              "RelativeToolTip": "Loja\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T00:56:38.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Loja\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\MainWindow.xaml",
+              "RelativeToolTip": "Loja\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T22:18:32.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pedido.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Pedido.xaml",
+              "RelativeDocumentMoniker": "Loja\\Pedido.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Pedido.xaml",
+              "RelativeToolTip": "Loja\\Pedido.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T22:44:21.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Produto.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Produto.xaml",
+              "RelativeDocumentMoniker": "Loja\\Produto.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Produto.xaml",
+              "RelativeToolTip": "Loja\\Produto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T22:38:20.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TelaItemPedidoss.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaItemPedidoss.xaml",
+              "RelativeDocumentMoniker": "Loja\\TelaItemPedidoss.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaItemPedidoss.xaml",
+              "RelativeToolTip": "Loja\\TelaItemPedidoss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T00:36:46.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TelaPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPrincipal.xaml",
+              "RelativeDocumentMoniker": "Loja\\TelaPrincipal.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPrincipal.xaml",
+              "RelativeToolTip": "Loja\\TelaPrincipal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T20:46:27.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TelaPagamentos.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPagamentos.xaml",
+              "RelativeDocumentMoniker": "Loja\\TelaPagamentos.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\TelaPagamentos.xaml",
+              "RelativeToolTip": "Loja\\TelaPagamentos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T01:22:44.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\App.xaml",
+              "RelativeDocumentMoniker": "Loja\\App.xaml",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\App.xaml",
+              "RelativeToolTip": "Loja\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T23:57:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Loja\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\AssemblyInfo.cs",
+              "RelativeToolTip": "Loja\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:57:18.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Logins.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LojaDB/True/SqlTable/dbo.Logins.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LojaDB/True/SqlTable/dbo.Logins.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-31T21:25:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Loja.csproj",
+              "DocumentMoniker": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Loja.csproj",
+              "RelativeDocumentMoniker": "Loja\\Loja.csproj",
+              "ToolTip": "C:\\Users\\carlosalcantara\\Desktop\\Loja\\Loja\\Loja.csproj",
+              "RelativeToolTip": "Loja\\Loja.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T22:17:26.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

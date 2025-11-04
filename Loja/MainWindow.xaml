@@ -1,0 +1,32 @@
+﻿<Window x:Class="Loja.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Loja"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0">
+            
+            <Ellipse Width="150" Height="150" Margin="0,0,0,20">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="/Loja;component/Imagens/7913b370-8fe2-48fe-92d8-852d0814f6f4.png" Stretch="UniformToFill"/>
+                </Ellipse.Fill>
+                <Ellipse.OpacityMask>
+                    <RadialGradientBrush GradientOrigin="0.5,0.5" Center="0.5,0.5" RadiusX="0.5" RadiusY="0.5">
+                        <GradientStop Color="#FF000000" Offset="0.85"/>
+                        <GradientStop Color="#00000000" Offset="1"/>
+                    </RadialGradientBrush>
+                </Ellipse.OpacityMask>
+            </Ellipse>
+
+           
+            <Label Content="Login" HorizontalAlignment="Center"/>
+            <TextBox x:Name="txtlogin" Width="150" Margin="0,5"/>
+            <Label Content="Senha" HorizontalAlignment="Center"/>
+            <PasswordBox x:Name="txtsenha" Width="150" Margin="0,5"/>
+            <Button x:Name="btnentrar" Content="Entrar" Width="150" Margin="0,10" Click="btnentrar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
